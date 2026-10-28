@@ -1,0 +1,7 @@
+# Local deployment packages
+godtech-site*.tar.gz
+
+# Local tooling
+.sites-runtime/
+.DS_Store
+Thumbs.db
