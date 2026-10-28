@@ -1,4 +1,6 @@
-# Godtech
+# Web App — Godtech
+
+> **Repository category:** Location-based web application
 
 **A location-based spiritual pilgrimage experience that helps people build a lasting practice through sacred-place discovery, prayer offerings, verified visits, and gentle gamification.**
 
@@ -82,7 +84,7 @@ Open `http://localhost:8765` in a browser. Location and camera behavior work bes
 ## Project structure
 
 ```text
-Godtech/
+Web-App-Godtech/
 ├── .openai/
 │   └── hosting.json       # Sites hosting configuration
 ├── dist/
